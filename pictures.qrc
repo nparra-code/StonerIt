@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BD/heroSprite.png</file>
+    </qresource>
+</RCC>

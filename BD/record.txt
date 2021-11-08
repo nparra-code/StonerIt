@@ -1,0 +1,7 @@
+hola,como,1,20
+hola,como,1,20
+hola,como,1,20
+hola,como,1,20
+hola,como,1,0
+Nelson,4,1528
+!
